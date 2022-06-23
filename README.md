@@ -31,6 +31,4 @@
 ## Github Stats:
   
 <p >
-<a href="https://github.com/pixiedust07"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pixiedust07&show_icons=true&include_all_commits=false&theme=buefy" alt="Anurag's github stats" /></a>
-
-  <a href="https://github.com/pixiedust07/github-readme-stats"><img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixiedust07&layout=compact&theme=buefy" /></a>
+<a href="https://github.com/pixiedust07"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pixiedust07&show_icons=true&include_all_commits=false&theme=buefy" alt="Anurag's github stats" /></a>  <a href="https://github.com/pixiedust07/github-readme-stats"><img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixiedust07&layout=compact&theme=buefy" /></a>
