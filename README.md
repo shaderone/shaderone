@@ -7,9 +7,9 @@
 </p></a>
 
 <!--<div align="left">-->
-🔭 I’m currently working on Netflix clone with flutter <br>
-🌱 I’m currently learning flutter and dart <br>
-📫 How to reach me: insta - @defcon07 <br>
+🔭 I’m currently working on Netflix clone with flutter <!--<br>-->
+🌱 I’m currently learning flutter and dart <!--<br>-->
+📫 How to reach me: insta - @defcon07 <!--<br>-->
 ⚡ Fun fact: I love watching Anime <!--</div>-->
 
 
@@ -31,7 +31,4 @@
 ## Github Stats:
   
 <p >
-<a href="https://github.com/pixiedust07">
-  <img height="185em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=pixiedust07&show_icons=true&include_all_commits=true&theme=material-palenighthttps://github-readme-stats-anuraghazra1.vercel.app/api?username=pixiedust07&show_icons=true&include_all_commits=true&theme=material-palenight&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117"/>
-  <img height="195em" src="https://github-readme-stats-ten-lyart.vercel.app/api/top-langs/?username=pixiedust07&langs_count=10&hide=Jupyter%20Notebook,ShaderLab,Mathematica,HLSL,Swift,Dockerfile,Objective-C&layout=compact&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&hide_border=true&icon_color=da3633&bg_color=0d1117"/>
-</a></p>
+<a href="https://github.com/pixiedust07"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pixiedust07&show_icons=true&include_all_commits=false&theme=buefy" alt="Anurag's github stats" /></a> <a href="https://github.com/pixiedust07/github-readme-stats"><img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixiedust07&layout=compact&theme=buefy" /></a>
