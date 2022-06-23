@@ -7,9 +7,9 @@
 </p></a>
 
 <!--<div align="left">-->
-🔭 I’m currently working on Netflix clone with flutter <!--<br>-->
-🌱 I’m currently learning flutter and dart <!--<br>-->
-📫 How to reach me: insta - @defcon07 <!--<br>-->
+🔭 I’m currently working on Netflix clone with flutter <br>
+🌱 I’m currently learning flutter and dart <br>
+📫 How to reach me: insta - @defcon07 <br>
 ⚡ Fun fact: I love watching Anime <!--</div>-->
 
 
