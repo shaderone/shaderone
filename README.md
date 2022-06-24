@@ -1,6 +1,6 @@
 <div align='center'>
   
-## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=5%></a>
+## Hi, I'm Sharon Shaji <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=5%></a>
   
 <p> <a href='#'>
  <img src='https://i.giphy.com/media/3osxYlSDn290VbV076/giphy.webp' height=40% width=40%></a>
@@ -9,7 +9,7 @@
 <!--<div align="left">-->
 🔭 I’m currently working on Netflix clone with flutter <br>
 🌱 I’m currently learning flutter and dart <br>
-📫 How to reach me: insta - @defcon07 <br>
+📫 How to reach me: insta - [@defcon07](https://www.instagram.com/defcon07/) <br>
 ⚡ Fun fact: I love watching Anime <!--</div>-->
 
 
