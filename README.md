@@ -7,7 +7,7 @@
 </p></a>
 
 <!--<div align="left">-->
-🔭 I’m currently working on an Appointment scheduling app with flutter <br>
+🔭 I’m currently Creating an online E-learning platform UI with flutter <br>
 🌱 I’m currently learning flutter state management <br>
 📫 How to reach me: insta - [@defcon07](https://www.instagram.com/defcon07/) <br>
 ⚡ Fun fact: I love watching Anime <!--</div>-->
