@@ -8,7 +8,7 @@
 
 <!--<div align="left">-->
 🔭 I’m currently Creating an online E-learning platform UI with flutter <br>
-🌱 I’m currently learning flutter state management <br>
+🌱 I’m currently learning Regex in detail <br>
 📫 How to reach me: insta - [@defcon07](https://www.instagram.com/defcon07/) <br>
 ⚡ Fun fact: I love watching Anime <!--</div>-->
 
