@@ -7,15 +7,16 @@
 </p></a>
 
 <!--<div align="left">-->
-🔭 I’m currently Creating an online E-learning platform UI with flutter <br>
-🌱 I’m currently learning Regex in detail <br>
-📫 How to reach me: insta - [@defcon07](https://www.instagram.com/defcon07/) <br>
-⚡ Fun fact: I love watching Anime <!--</div>-->
+🔭 I’m currently Creating a job-search platform using Reactjs <br>
+🌱 I’m currently learning DSA <br>
+📫 How to reach me: insta - sharonshaji127001@gmail.com <br>
+⚡ undisclosed skill: Juggling 
+<!--</div>-->
 
 
 ## Languages and Tools:
 <a href="#work_with">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp; -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
