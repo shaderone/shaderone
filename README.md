@@ -7,9 +7,9 @@
 </p></a>
 
 <!--<div align="left">-->
-🔭 I’m currently Creating a job-search platform using Reactjs <br>
+<!--🔭 I’m currently Creating a job-search platform using Reactjs <br>-->
 🌱 I’m currently learning DSA <br>
-📫 How to reach me: insta - sharonshaji127001@gmail.com <br>
+📫 How to reach me: sharonshaji127001@gmail.com <br>
 ⚡ undisclosed skill: Juggling 
 <!--</div>-->
 
