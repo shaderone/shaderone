@@ -30,9 +30,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
-## Github Stats:
+<!--## Github Stats:
   
-<!--<p >
+<p >
 <a href="https://github.com/shaderone"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=shaderone&show_icons=true&include_all_commits=false&theme=buefy" alt="Anurag's github stats" /></a>  <a href="https://github.com/shaderone/github-readme-stats"><img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaderone&layout=compact&theme=buefy" /></a>
   
 ![](https://komarev.com/ghpvc/?username=shaderone&label=visitors&color=ff69b4)-->
