@@ -8,7 +8,7 @@
 
 <!--<div align="left">-->
 <!--🔭 I’m currently Creating a job-search platform using Reactjs <br>-->
-🌱 I’m currently learning DSA and mobile app development using flutter <br>
+🌱 I’m currently learning Linux and Devops <br>
 📫 How to reach me: sharonshaji127001@gmail.com <br>
 ⚡ undisclosed skill: Juggling 
 🚘 Automobile enthusiast 
