@@ -3,7 +3,7 @@
 ## Hi, I'm Sharon Shaji <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=5%></a>
   
 <p> <a href='#'>
- <img src='https://i.giphy.com/media/3osxYlSDn290VbV076/giphy.webp' height=40% width=40%></a>
+ <img src='https://i.giphy.com/media/3osxYlSDn290VbV076/giphy.webp' height=80% width=40%></a>
 </p></a>
 
 <!--<div align="left">-->
